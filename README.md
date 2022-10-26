@@ -9,7 +9,7 @@
 ## Features
 - Encrypt and decrypt an image in a safe and a easy way.
 - UIImage, CIImage, image format data(jpeg, png..) supported
-- Good performance(0.4 secs taken for encrypting a 8.6MP image in M1 simulator)
+- Good performance(0.3 secs taken for encrypting a 8.6MP image on iPhone X)
 
 ## Usage
 ```swift
