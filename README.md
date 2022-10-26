@@ -1,5 +1,5 @@
-![logo](https://user-images.githubusercontent.com/44376599/198014705-493050cb-6349-4b5f-8742-37d45a926dfb.png)
-![example](https://user-images.githubusercontent.com/44376599/198014793-c0a941bd-85d8-4e94-89b9-bb35c2340565.png)
+![logo](https://user-images.githubusercontent.com/44376599/198019358-658ea63e-11cd-46dd-9500-a4be12237140.png)
+![example](https://user-images.githubusercontent.com/44376599/198019403-4779f048-c256-4a56-9d47-3f20113b03af.png)
 
 ![1.0.0](https://img.shields.io/github/v/release/pinkjuice66/ImageCrypto)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
